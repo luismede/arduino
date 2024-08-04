@@ -10,3 +10,4 @@ Sistema de semáforo  com `LCD` e `LED`
 
 </br>
 
+![PrintScreen Arduino](https://github.com/user-attachments/assets/8d42e900-1160-4068-bd6b-c77b044986dc)
