@@ -11,7 +11,7 @@ Sistema de semáforo  com `LCD` e `LED`
 - 1 LCD Baseado em PCF8574, 32 (0x20) LCD 16 x 2 (I2C)
 
 ### Visualizar projeto
-- <a href="https://www.tinkercad.com/things/hOJd2a9uVcg-semafaro?sharecode=cFdqJKjrRK8PCZhTBtV10zzPvZwJz9H5Ol-RTGBDhSI">Clique Aqui</a>
+- <a href="https://www.tinkercad.com/things/hOJd2a9uVcg-semafaro?sharecode=cFdqJKjrRK8PCZhTBtV10zzPvZwJz9H5Ol-RTGBDhSI" target="_blank">Clique Aqui</a>
 
 </br>
 
