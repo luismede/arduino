@@ -2,11 +2,16 @@
 
 Sistema de semáforo  com `LCD` e `LED`
 
-- Arduino Uno R3
-- Led vermelho, verde e amarelo
+- 1 Arduino Uno R3
+- 2 Leds vermelhos
+- 2 Leds verdes
+- 2 Leds amarelos
 - Protoboard 400 pinos
-- 3 Resistores 220Ω OHMs
-- 1 LCD I2C
+- 5 Resistores 220Ω OHMs
+- 1 LCD Baseado em PCF8574, 32 (0x20) LCD 16 x 2 (I2C)
+
+### Visualizar projeto
+- <a href="https://www.tinkercad.com/things/hOJd2a9uVcg-semafaro?sharecode=cFdqJKjrRK8PCZhTBtV10zzPvZwJz9H5Ol-RTGBDhSI">Clique Aqui</a>
 
 </br>
 
