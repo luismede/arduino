@@ -38,7 +38,7 @@ void loop()
 	digitalWrite(pedestreVerde, HIGH);
 
     lcd.setCursor(4,0);
-    lcd.print("Semafaro");
+    lcd.print("Semaforo");
     lcd.setCursor(4,1);
     lcd.print("Vermelho");
   	    delay(4000); // Vermelho carros desligará em 4s
@@ -54,7 +54,7 @@ void loop()
 	digitalWrite(pedestreVerde, LOW);
 
     lcd.setCursor(4,0);
-    lcd.print("Semafaro");
+    lcd.print("Semaforo");
     lcd.setCursor(6,1);
     lcd.print("Verde");
   	    delay(2000); // Verde desligará em 2s
@@ -66,7 +66,7 @@ void loop()
     digitalWrite(verde, LOW);
 
     lcd.setCursor(4,0);
-    lcd.print("Semafaro");
+    lcd.print("Semaforo");
     lcd.setCursor(4,1);
     lcd.print("Amarelo");
   	    delay(3000); // Amarelo desligará em 3s
