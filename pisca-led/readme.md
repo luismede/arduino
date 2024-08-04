@@ -1,6 +1,6 @@
 # Arduino 
 
-Sistema simples para ligar o **LED** que está conectado na `protoboard` - Primeira aula sobre Arduinos:
+Sistema simples para ligar o `LED` que está conectado na `protoboard`:
 
 - Arduino Uno R3
 - Led vermelho
