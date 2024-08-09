@@ -10,4 +10,4 @@ Mas para isso, vou precisar aprender do zero.
 ### Projetos
 
 - <a href="https://github.com/luismede/arduino/tree/main/semafaro">Semáfaro</a>
-- <a href="https://github.com/luismede/arduino/tree/main/semafaro">Ligando LED</a>
+- <a href="https://github.com/luismede/arduino/tree/main/pisca-led">Ligando LED</a>
