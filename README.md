@@ -3,9 +3,8 @@
 </br>
 
 # Arduino do zero!
-Este ano(2024) apresentarei sobre o tema mecatronica na minha feira de ciencias da escola. Como item principal de demonstração, decidi por usar o Arduino!
+Este ano(2024) apresentarei sobre o tema mecatronica na minha feira de profissões da escola. Como item principal de demonstração, decidi por usar o Arduino!
 Mas para isso, vou precisar aprender do zero.
-
 
 ### Projetos
 
